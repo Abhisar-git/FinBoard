@@ -33,9 +33,10 @@ export interface Widget {
     symbol?: string;
     interval?: "1D" | "1W" | "1M" | "3M" | "1Y";
     newsQuery?: string;
+    newsCategory?: string;
   };
   data?: any;
-  newsCategory?: string; // "business", "technology", "entertainment", etc.
+   // "business", "technology", "entertainment", etc.
   limit?: number;
 }
 
