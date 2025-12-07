@@ -31,7 +31,8 @@
 
 ### Prerequisites
 * Node.js 18+ installed.
-* Free API keys from [Alpha Vantage](https://www.alphavantage.co/) or [Finnhub](https://finnhub.io/).
+**** Get Your API Keys from AlphaVantage(https://www.alphavantage.co/support/#api-key)
+     and NewsData.io(https://newsdata.io/) to use the app.****
 
 ### Installation
 
